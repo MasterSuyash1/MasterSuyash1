@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Suyash Srivastav, a second-year student at IIT Madras studying Data Science and Applications. Here's a glimpse into my coding journey:
+I'm Suyash Srivastav, a third-year student at IIT Madras studying Data Science and Applications. Here's a glimpse into my coding journey:
 
 🚀 **Current Focus:** Enhancing my skills in Python, Vue.js, and exploring the realms of Machine Learning.
 
