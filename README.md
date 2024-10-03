@@ -1,17 +1,25 @@
 ### Hi there 👋
 
-I'm Suyash Srivastav, a third-year student at IIT Madras studying Data Science and Applications. Here's a glimpse into my coding journey:
+I'm Suyash Srivastav, a third-year student at IIT Madras pursuing **Data Science and Applications**. I'm passionate about transforming data into meaningful insights and building scalable applications.
 
-🚀 **Current Focus:** Enhancing my skills in Python, Vue.js, and exploring the realms of Machine Learning.
+🚀 **Current Focus:** 
+- Mastering **Python**, **Vue.js**, **React**, and **Machine Learning**.
+- Exploring advanced algorithms and engaging in **competitive programming** challenges.
 
-🌱 **Learning:** Always diving into new technologies and frameworks to stay ahead in the ever-evolving tech landscape.
+🌱 **Learning Journey:**
+- Actively participating in **hackathons**, with experience in **AI** and **Web3** projects, including reaching Web3 finals.
+- Love building innovative tools like **Chrome extensions** and learning new frameworks like **Flask** and **Kubernetes**.
 
-👯 **Collaboration:** Open to collaborating on exciting projects related to data science, web development, or anything that sparks creativity!
+👯 **Collaboration:** 
+- Open to collaborating on projects in **data science**, **AI**, **web development**, **Web3**, and **automation**. Excited to explore creative solutions together!
 
-💬 **Ask me about:** Anything related to Python, Flask, data analysis, or my experiences in coding competitions.
+💬 **Ask me about:** 
+- Python, Flask, React, data analysis, web development, competitive programming, or hackathon experiences.
 
-📫 **How to reach me:** Drop me an email at suyashsrivastav1@gmail.com or connect on LinkedIn [@SuyashSrivastav](https://www.linkedin.com/in/MasterSuyash1/).
+📫 **How to reach me:** 
+- Drop me an email at suyashsrivastav1@gmail.com or connect on LinkedIn [@SuyashSrivastav](https://www.linkedin.com/in/MasterSuyash1/).
 
-😄 **Fun fact:** I love exploring new cuisines and experimenting with cooking recipes when I'm not coding!
+😄 **Fun fact:** 
+- When I'm not coding, I love traveling and indulging in different **vegetarian cuisines** from around the world.
 
 Feel free to explore my GitHub repositories and connect with me. Let's create something amazing together! 🌟
