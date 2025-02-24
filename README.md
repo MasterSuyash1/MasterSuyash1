@@ -16,6 +16,11 @@ I'm Suyash Srivastav, a third-year student at IIT Madras pursuing **Data Science
 💬 **Ask me about:** 
 - Python, Flask, React, data analysis, web development, competitive programming, or hackathon experiences.
 
+## 📊 GitHub Stats
+
+![Suyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterSuyash1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterSuyash1&layout=compact&theme=radical)
+
 📫 **How to reach me:** 
 - Drop me an email at suyashsrivastav1@gmail.com or connect on LinkedIn [@SuyashSrivastav](https://www.linkedin.com/in/MasterSuyash1/).
 
